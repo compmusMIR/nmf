@@ -1,3 +1,3 @@
 # NMF
 
-To preview the python notebook click [nmf.py](Here)
+To preview the python notebook click (Here)[nmf.py]
